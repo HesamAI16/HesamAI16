@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=210&section=header&text=HesamAI16&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Minecraft%20Server%20Owner%20%7C%20Songwriter&descSize=21&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Building+GameLand+%E2%80%94+SMP+%2B+RP+%2B+Warfare;Java+%7C+Paper+%7C+Folia+%7C+Minecraft+Development;Freelance+Java+Developer+%26+Server+Owner" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Building+GameLand+%E2%80%94+BedWars+%2B+Arcade+%2B+RP+%2B+Warfare;Java+%7C+Paper+%7C+Folia+%7C+Minecraft+Development;Freelance+Java+Developer+%26+Server+Owner" alt="Typing animation"/>
 
 <br>
 
