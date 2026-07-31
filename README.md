@@ -71,17 +71,6 @@ The project includes custom systems for gameplay, economy, moderation, communica
 
 </div>
 
-## 📦 GameLand Modules
-
-<div align="center">
-
-`GLVoice` `GLWar` `GLAntiCheat` `GLHUD` `GLGangs` `GLMedic`  
-`GLMines` `GLRange` `GLMoney` `GLCuff` `GLCJail` `GLArmor`  
-`GLBot` `GLKits` `GLCamera` `GLStress` `CSPrime` `CSHUD`  
-`Slate` `FactionChat` `AdvancedDuty` `Bases` `MTVAddons` `GTA`
-
-</div>
-
 ## 🎵 Songwriting
 
 I also write songs, mostly focused on emotional and high-energy pop-rock ideas.
