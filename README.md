@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+<a href="https://discord.com/users/1251639518696706099" target="_blank">
   <img src="https://img.shields.io/badge/Discord-HesamAI16-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 &nbsp;
-<a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+<a href="https://t.me/@hesamai16" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-HesamAI16-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
